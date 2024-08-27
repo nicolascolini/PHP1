@@ -2,24 +2,24 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #9ea8d6;
 }
 
 .content {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: rgb(235, 235, 235);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-    color: #333;
+    color: rgb(0, 0, 0);
 }
 
 p {
-    color: #666;
+    color: rgb(106, 135, 204);
 }
 
 .produtos {
@@ -38,5 +38,5 @@ li {
 footer {
     margin-top: 20px;
     text-align: center;
-    color: #666;
+    color: rgb(57, 51, 107);
 }

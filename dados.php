@@ -4,4 +4,6 @@
 
 $produtos = array("arroz", "feijão", "alface", "tomate");
 
+
 ?>
+

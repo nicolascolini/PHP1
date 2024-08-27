@@ -9,6 +9,7 @@
 <body>
     
 <?php include "dados.php"; ?>
+<?php include "aula.php"; ?>
 
 <div class="content">
     <h1><?php echo isset($tituloSite) ? $tituloSite : "Site"; ?></h1>
